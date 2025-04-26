@@ -6,7 +6,7 @@ website: rakia.infinityfreeapp.com
 
 ##  Project Description
 
-A simple web application built with **PHP** for managing students and sections, including:
+A  web application built with **PHP** for managing students and sections, including:
 - User authentication
 - Role-based access control (Admin and Regular User)
 - Dashboard for managing students and sections
